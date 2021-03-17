@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-_Any fool can write code that a computer can understand. Good programmers write code that humans can understand. -Refactoring_ Improving the Design of Existing Code 15p_
+_*Any fool can write code that a computer can understand. Good programmers write code that humans can understand. -Refactoring Improving the Design of Existing Code 15p*_
 
 ```c
 printf("%s로 %s하는 %입니다.", "취미", "개발", "개발자");
