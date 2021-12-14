@@ -11,6 +11,9 @@ printf("%s로 %s하는 %입니다.", "취미", "개발", "개발자");
 ```
 ```java
 System.out.println("일정길이의 메모리에 저장된 정보를 해석하는 방법");
+/*
+Service Cloud is an easy-to-use customer service application that can help you provide and track excellent service. It keeps your customers happy and your support team sane, whether your customers reach out to you by email, phone, social media, or other channels from desktops, mobile devices, or apps.
+*/
 ```
 ```python
 print("해석할 대상 메모리에 붙인 이름");
