@@ -2,8 +2,23 @@
 - 👀 I’m interested in TDD
 - 🌱 I’m currently learning Spring framework
 
-##### 좋은 개발자란
-- 일정 준수, 오류 최소화
+#### 좋은 개발자란
+- 일정 준수 + 오류 없음
+	- 커뮤니케이션
+	- OCP
+	- IDE 등 툴 사용
+	- 꼼꼼함
+	- TDD
+	- 디버깅
+	- 공통화
+	- 객체지향적 사고
+	- 문제 대응 능력
+		- 디버깅
+		- 빠른 추측
+	- 습득, 적응
+
+- '일정 준수 + 오류 없음'을 목표로 일을 하면서 배워 나가는 것 같다.
+- 그럼에도 새로운 것을 접하는 것은 새로운 영감을 줄 수 있다. 나의 경우 정규표현식이 그러했다.
 
 _Any fool can write code that a computer can understand. Good programmers write code that humans can understand. -Refactoring Improving the Design of Existing Code 15p_
 
