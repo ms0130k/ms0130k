@@ -2,7 +2,7 @@
 - 👀 I’m interested in TDD
 - 🌱 I’m currently learning Spring framework
 
-#####좋은 개발자#####
+##### 좋은 개발자
 
 _Any fool can write code that a computer can understand. Good programmers write code that humans can understand. -Refactoring Improving the Design of Existing Code 15p_
 
