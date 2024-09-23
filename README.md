@@ -2,6 +2,10 @@
 - 👀 I’m interested in TDD
 - 🌱 I’m currently learning Spring framework
 
+#### 용어
+- AES: Advanced Encryption Standard
+- SHA: Secure Hash Algorithm
+
 #### 좋은 개발자란
 - 일정 준수 + 오류 없음
 	- 커뮤니케이션
